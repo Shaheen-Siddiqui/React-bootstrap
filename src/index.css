@@ -1,0 +1,17 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.container{
+  background-color: blueviolet;
+  height: 95vh;
+  width: 70rem;
+  margin-top: 20px;
+  border-top: 27px groove blue;
+
+}
+#root{
+  background-color: aqua;
+}
